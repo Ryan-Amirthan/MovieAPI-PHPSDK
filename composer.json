@@ -1,6 +1,6 @@
 {
-  "name": "tmdb-ryanstep/tmdb-ryanstep",
-  "version": "1.0.0",
+  "name": "tmdb/tmdb",
+  "version": "1.0.1",
   "description": "Tmdb PHP Library",
   "keywords": [
     "tmdb",

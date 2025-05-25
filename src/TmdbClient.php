@@ -88,8 +88,8 @@ class TmdbClient
             'Authorization' => "Bearer $apiKey",
             'X-Fern-Language' => 'PHP',
             'X-Fern-SDK-Name' => 'Tmdb',
-            'X-Fern-SDK-Version' => '1.0.0',
-            'User-Agent' => 'tmdb/tmdb/1.0.0',
+            'X-Fern-SDK-Version' => '1.0.1',
+            'User-Agent' => 'tmdb/tmdb/1.0.1',
         ];
 
         $this->options = $options ?? [];
